@@ -67,10 +67,11 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "word": "nundinate",
+    "word": "paris",
     "definitions": [
-      "To buy and sell at fairs or markets. [Obs.]"
-    ]
+      "A plant common in Europe (Paris quadrifolia); herb Paris; truelove. It has been used as a narcotic. Note: It much resembles the American genus Trillium, but has usually four leaves and a tetramerous flower.  The chief city of France. Paris green. See under Green, n. -- Paris white (Chem.), purified chalk used as a pigment; whiting; Spanish white."
+    ],
+    "pronounciation": "P EH1 R IH0 S"
   }
 }
 ```
